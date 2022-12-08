@@ -1,4 +1,5 @@
+Date : 08-Dec-2022
 StudentID: 2213110139
 Fullname : Tatpoln Silpsrikul
-AKA : Fluke
-ClassDetail : Lab Sheet 4 : String Methods and Defined Method
+AKA : TatpolnSS
+ClassDetail : User-Defined Method with String
